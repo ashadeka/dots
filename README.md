@@ -1,0 +1,2 @@
+# dots
+Learning JavaScript
